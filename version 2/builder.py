@@ -3,9 +3,6 @@ import math
 
 
 
-## fuck svgpath tools and stuff this is it
-
-
 ## ratio likely not needed/ needs to be changed
 
 def build(sides,ratio,thickness):
